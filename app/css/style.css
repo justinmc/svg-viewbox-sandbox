@@ -1,0 +1,24 @@
+body {
+  background: #fdfdfd;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.svg-container {
+  text-align: center;
+}
+
+svg {
+  border: 4px #aaaaff solid;
+}
