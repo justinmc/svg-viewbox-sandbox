@@ -13,7 +13,7 @@ var bases = {
 };
 
 var paths = {
-  scripts: ['js/**/*.js', '!js/vendor/**/*.js'],
+  scripts: ['js/**/*.js', 'js/**/*.jsx', '!js/vendor/**/*.js'],
   scriptsVendor: ['js/vendor/**/*.js'],
   styles: ['css/**/*.css'],
   html: ['index.html', '404.html'],
