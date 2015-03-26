@@ -1,6 +1,6 @@
 # SVG Viewbox Sandbox
 
-This project is a simple sandbox that lets you experiment with different values of `viewBox` and `preserveAspectRatio` and view the results in a live SVG.
+This React project is a simple sandbox that lets you experiment with different values of `viewBox` and `preserveAspectRatio` and view the results in a live SVG.  Built with [boilerplate gulp](https://github.com/justinmc/boilerplate-gulp).
 
 ## Development
 Check out the app and run `npm install` to get set up.  Then run `gulp serve` to start serving the app.
